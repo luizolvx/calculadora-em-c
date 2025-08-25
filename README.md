@@ -28,7 +28,8 @@ Implementação de uma calculadora de linha de comando em linguagem C que realiz
 - Uso de operadores aritméticos
 - Controle de fluxo com condicionais
 - Formatação de saída
-- Tratamento básico de erros
+- Tratamento de erros
+
 
 ### Aplicações
 - Introdução à programação em C
